@@ -1,6 +1,8 @@
 # AlgorithmProblems
 
 ## [Array](https://github.com/yingyingzhuzhu/AlgorithmProblems/tree/master/array)
+## [Tree / Graph](https://github.com/yingyingzhuzhu/AlgorithmProblems/tree/master/tree)
+
 
 ### [3Sum](https://leetcode.com/problems/3sum/description)
 
